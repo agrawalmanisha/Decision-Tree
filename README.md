@@ -1,0 +1,2 @@
+# Decision-Tree
+Use decision tree algorithm to come up with a way to club the levels of variable “cus_employername” into two groups: (1) Group 1-> Consisting of all employer names where the bad rate is high (2) Group 2 -> Consisting of all the employer names where bad rate is low. Also need to come up with an efficient code/procedure to create a dummy variable denoting which rows of the data correspond to “Group 1” and which rows correspond to “Group 2” for a Pay-Day Loans Data-set.
